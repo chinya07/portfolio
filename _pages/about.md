@@ -4,7 +4,10 @@ title: About Me
 permalink: /about/
 ---
 
-This website is powered by **[fastpages](https://github.com/fastai/fastpages)** [^2].
+Postgraduate Masters student at Dublin City University with Artificial Intelligence as major. A coding enthusiast with a
+strong foundation in Machine Learning, especially in Deep Learning, with experience of working in a data science
+domain to deliver AI-powered software and technical solutions to companies who want to leverage data and machine
+learning algorithms for business value.
 
 
 
